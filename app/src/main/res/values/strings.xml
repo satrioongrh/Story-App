@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MyStoryApp2</string>
+    <string name="welcome">Welcome to MyApp</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="acc">Don\'t have an account?</string>
+    <string name="register">Register</string>
+    <string name="name">Full Name</string>
+    <string name="acc2">Already have an account?</string>
+    <string name="label_lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque lobortis nunc nec sodales consectetur. Sed eget auctor quam. Nulla facilisi. Etiam vitae nulla sed arcu varius tempus. Nullam ac diam ante. Donec condimentum cursus accumsan. Ut sit amet felis rutrum, posuere lorem sed</string>
+    <string name="content_description_image_story">User Story Image</string>
+    <string name="const_story_description_hint">write description</string>
+    <string name="button_text_upload_story">upload story</string>
+    <string name="button_text_upload_camera">take picture</string>
+    <string name="logout">logout</string>
+    <string name="retry">Coba lagi</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
